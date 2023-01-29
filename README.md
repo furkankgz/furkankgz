@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Game Developer Candidate</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkankgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkankgz" height="30" width="40" /></a>
